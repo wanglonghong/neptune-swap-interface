@@ -1,0 +1,61 @@
+{
+  "name": "neptuneswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["neptune", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Neptune Token",
+      "symbol": "TUNE",
+      "address": "0x826344754f200201b50524769A962516AD2bA6C2",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/TUNE.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },    
+    {
+      "name": "Neptune Token",
+      "symbol": "TUNE",
+      "address": "0xbE3F4046ca72252F91A6A598F81398065C50059f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/TUNE.png"
+    },    
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    }
+  ]
+}
