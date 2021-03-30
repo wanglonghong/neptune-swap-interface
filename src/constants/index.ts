@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@neptuneswap/neptuneswapsdk'
 
-export const ROUTER_ADDRESS = '0x95E14FDc1992a1e36C89BF2c6423A252cF81D6B8'
+export const ROUTER_ADDRESS = '0x4c6b67C461aa83077b50dB0D14947c150466991e'
 
 // a list of tokens by chain
 type ChainTokenList = {
@@ -52,7 +52,7 @@ export const BASES_TO_TRACK_LIQUIDITY_FOR: ChainTokenList = {
 export const PINNED_PAIRS: { readonly [chainId in ChainId]?: [Token, Token][] } = {
   [ChainId.MAINNET]: [
     [
-      new Token(ChainId.MAINNET, '0xbE3F4046ca72252F91A6A598F81398065C50059f', 18, 'CMBST', 'NeptuneSwap Token'),
+      new Token(ChainId.MAINNET, '0xFB2df30e1e68d828C185176049ea1bf1304157cB', 18, 'TUNE', 'NeptuneSwap Token'),
       new Token(ChainId.MAINNET, '0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c', 18, 'WBNB', 'Wrapped BNB'),
     ],
     [BUSD, USDT],

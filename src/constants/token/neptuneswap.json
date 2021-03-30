@@ -44,7 +44,7 @@
     {
       "name": "Neptune Token",
       "symbol": "TUNE",
-      "address": "0xbE3F4046ca72252F91A6A598F81398065C50059f",
+      "address": "0xFB2df30e1e68d828C185176049ea1bf1304157cB",
       "chainId": 56,
       "decimals": 18,
       "logoURI": "/images/coins/TUNE.png"
