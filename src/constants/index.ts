@@ -1,6 +1,6 @@
 import { ChainId, JSBI, Percent, Token, WETH } from '@neptuneswap/neptuneswapsdk'
 
-export const ROUTER_ADDRESS = '0x4c6b67C461aa83077b50dB0D14947c150466991e'
+export const ROUTER_ADDRESS = '0x9bdF3240b8a3d4B15703F94a08F10F266D646fF5'
 
 // a list of tokens by chain
 type ChainTokenList = {

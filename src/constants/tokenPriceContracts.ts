@@ -1,7 +1,7 @@
 const priceContracts: {tokenAddress: string, busdAddress: string, lpAddress:string} = {
-    tokenAddress: '0xFB2df30e1e68d828C185176049ea1bf1304157cB',
+    tokenAddress: '0xC0A422bCfBD12Cf55A25b8Fe8a7e9F5f6296499a',
     busdAddress: '0xe9e7cea3dedca5984780bafc599bd69add087d56',
-    lpAddress: '0x81a8e6acf5983355ed6d114aebb0abb7474aa518'
+    lpAddress: '0xfc1d1ee501a4e7dac407e983bcaff9bf703902e9'
   }
   
   export default priceContracts
